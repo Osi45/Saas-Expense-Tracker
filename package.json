@@ -1,0 +1,30 @@
+{
+  "name": "saas-expense-tracker",
+  "version": "1.0.0",
+  "description": "An expense tracker application for SaaS businesses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osi45/Saas-Expense-Tracker.git"
+  },
+  "keywords": [
+    "saas",
+    "expense",
+    "tracker",
+    "Node.js",
+    "JavaScript"
+  ],
+  "author": "Abdul Mumuni Osuman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Osi45/Saas-Expense-Tracker/issues"
+  },
+  "homepage": "https://github.com/Osi45/Saas-Expense-Tracker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
